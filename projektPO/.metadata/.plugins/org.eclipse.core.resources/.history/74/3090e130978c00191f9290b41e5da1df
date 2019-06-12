@@ -1,0 +1,16 @@
+
+mainTitle = Symulacja siatki dyfrakcyjnej
+changeLang = Language
+fileMenu = Menu
+saveMenu = Zapisz dane
+readMenu = Wczytaj dane
+authorMenu = Autorzy
+exitMenu = Wyjscie
+dLabel = Stala siatki w nm, np 2116
+nLabel = Rzad widma (0-3)
+difLabel = Wartosci domyslne
+userLabel = Wartosci uzytkownika
+startButton = Start
+clearButton = Czysc
+nightButton = Tryb nocny
+authorText = Aleksandra Bochenek /n Aleksandra Cuper

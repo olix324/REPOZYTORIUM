@@ -1,0 +1,16 @@
+
+mainTitle = Simulation of diffraction grating
+changeLang = Language
+fileMenu = Menu
+saveMenu = Save data
+readMenu = Read data
+authorMenu = Authors
+exitMenu = Exit
+dLabel = Slit separation nm, like 2116
+nLabel = Order (0-3)
+difLabel = Default value
+userLabel = User's value
+startButton = Start
+clearButton = Clear data
+nightButton = Night mode
+authorText = Aleksandra Bochenek \nAleksandra Cuper
