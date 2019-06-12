@@ -73,6 +73,7 @@ public class Window extends JFrame implements KeyListener {
 
 		this.setSize(800, 600);
 		setDefaultCloseOperation(DISPOSE_ON_CLOSE);
+		setLocationRelativeTo(null);
 		this.setLayout(new GridLayout(1, 2));
 
 		// koniec okna
